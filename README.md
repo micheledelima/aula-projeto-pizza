@@ -1,0 +1,2 @@
+# projeto_pizza
+Projeto proposto: Uma empresa de pesquisas online solicitou o desenvolvimento de um software capaz de identificar qual tamanho de pizza apresenta o melhor custo beneficio. O software deverá receber diversos tamanhos de pizza e seus respectivos preços e ao final exibir um relatório informando em valores absolutos e relativos (percentual) qual a diferença de preços entre as pizzas e deverá informar qual pizza tem o melhor custo beneficio.
